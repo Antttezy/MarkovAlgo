@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markov", "Markov\Markov.csproj", "{626AAF08-212A-411B-97F2-DBA0C0E21CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkovTest", "MarkovTest\MarkovTest.csproj", "{1975DD6A-D782-487A-8C7C-235D848192E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626AAF08-212A-411B-97F2-DBA0C0E21CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626AAF08-212A-411B-97F2-DBA0C0E21CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626AAF08-212A-411B-97F2-DBA0C0E21CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626AAF08-212A-411B-97F2-DBA0C0E21CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1975DD6A-D782-487A-8C7C-235D848192E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1975DD6A-D782-487A-8C7C-235D848192E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1975DD6A-D782-487A-8C7C-235D848192E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1975DD6A-D782-487A-8C7C-235D848192E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B99C14DD-9149-459D-A9C2-F3B00E1AD365}
+	EndGlobalSection
+EndGlobal
