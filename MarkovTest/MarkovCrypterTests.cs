@@ -1,4 +1,4 @@
-using Markov;
+using MarkovEncode;
 using NUnit.Framework;
 using NUnit.Framework.Internal;
 using System;

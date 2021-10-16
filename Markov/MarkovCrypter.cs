@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Security.Cryptography;
 
-namespace Markov
+namespace MarkovEncode
 {
     public class MarkovCrypter
     {
